@@ -1,0 +1,6 @@
+C:\Users\Stef\Documents\GitHub\GenericListCLassTask\bin\Debug\GenericListCLassTask.exe.config
+C:\Users\Stef\Documents\GitHub\GenericListCLassTask\bin\Debug\GenericListCLassTask.exe
+C:\Users\Stef\Documents\GitHub\GenericListCLassTask\bin\Debug\GenericListCLassTask.pdb
+C:\Users\Stef\Documents\GitHub\GenericListCLassTask\obj\Debug\GenericListCLassTask.exe
+C:\Users\Stef\Documents\GitHub\GenericListCLassTask\obj\Debug\GenericListCLassTask.pdb
+C:\Users\Stef\Documents\GitHub\GenericListCLassTask\obj\Debug\GenericListCLassTask.csprojResolveAssemblyReference.cache
